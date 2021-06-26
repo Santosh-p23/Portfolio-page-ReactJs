@@ -58,10 +58,6 @@ h5 {}
 .jumbotron {
     min-height: 50vh;
     background-color: rgba(0, 0, 0, 0);
-    /* background-image: url("/images/DSC09023-2.jpg");
-  background-size: cover;
-  background-repeat: no-repeat; */
-}
 
 .modal-content {
     background-color: rgba(11, 17, 17, 0.7);
