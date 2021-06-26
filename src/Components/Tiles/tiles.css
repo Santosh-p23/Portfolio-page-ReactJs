@@ -1,0 +1,55 @@
+.svg {
+  max-width: 130px;
+  height: 130px;
+  color: white !important;
+  fill: white !important;
+  -webkit-filter: invert(0.5) brightness(100) sepia(1) saturate(0)
+    hue-rotate(0deg);
+  filter: invert(0.5) brightness(100) sepia(1) saturate(0) hue-rotate(0deg);
+}
+
+.img-container {
+  width: 145px !important;
+  float: left;
+  padding: 10px;
+}
+
+.mr-3 {
+  /*fill: white */
+
+  color: white;
+  -webkit-filter: invert(0.5) brightness(100) sepia(1) saturate(0)
+    hue-rotate(0deg);
+  filter: invert(0.5) brightness(100) sepia(1) saturate(0) hue-rotate(0deg);
+}
+
+.portfolio-card {
+  background: transparent;
+  align-content: center;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 1.2rem;
+}
+
+.project {
+  width: 250px;
+  padding-right: 50px;
+}
+
+.links {
+}
+
+.contact-card {
+  background-color: rgba(0, 0, 0, 0);
+  justify-content: center;
+}
+
+.contact-image {
+  width: 4.5rem;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 430px) {
+  .portfolio-card {
+  }
+}
